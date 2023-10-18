@@ -1,0 +1,5 @@
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/CMSIS/core_cm0plus.h:1058:26:SysTick_Config	16	static
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/drivers/fsl_clock.h:458:20:CLOCK_Select	16	static
+../source/hello_p3t1755.c:33:5:main	32	static
+../source/hello_p3t1755.c:57:6:mcu_init	8	static

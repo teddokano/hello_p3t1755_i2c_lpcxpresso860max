@@ -1,0 +1,8 @@
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/drivers/fsl_i2c.h:620:24:I2C_MasterRepeatedStart	16	static
+../source/i2c.c:24:6:i2c_init	40	static
+../source/i2c.c:33:10:i2c_send	32	static
+../source/i2c.c:46:10:i2c_receive	24	static
+../source/i2c.c:59:10:i2c_reg_w8	32	static
+../source/i2c.c:66:10:i2c_reg_w16	32	static
+../source/i2c.c:73:9:i2c_reg_r8	32	static
+../source/i2c.c:82:10:i2c_reg_r16	32	static

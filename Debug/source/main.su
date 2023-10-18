@@ -1,0 +1,14 @@
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/CMSIS/core_cm0plus.h:1058:26:SysTick_Config	16	static
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/drivers/fsl_clock.h:458:20:CLOCK_Select	16	static
+/Users/tedd/dev/lpc860/hello_p3t1755_i2c_lpcxpresso860max/drivers/fsl_i2c.h:620:24:I2C_MasterRepeatedStart	16	static
+../source/main.c:51:5:main	24	static
+../source/main.c:86:6:i2c_init	40	static
+../source/main.c:95:10:i2c_send	32	static
+../source/main.c:111:10:i2c_receive	24	static
+../source/main.c:127:10:i2c_reg_w8	32	static
+../source/main.c:133:10:i2c_reg_w16	32	static
+../source/main.c:139:9:i2c_reg_r8	32	static
+../source/main.c:148:10:i2c_reg_r16	32	static
+../source/main.c:157:6:SysTick_Handler	8	static
+../source/main.c:165:6:SysTick_DelayTicks	16	static

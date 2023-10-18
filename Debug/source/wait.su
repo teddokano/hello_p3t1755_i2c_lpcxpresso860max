@@ -1,0 +1,2 @@
+../source/wait.c:6:6:SysTick_Handler	8	static
+../source/wait.c:12:6:wait_ms	16	static
