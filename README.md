@@ -7,6 +7,7 @@ The [P3T1755](https://www.nxp.com/products/sensors/i3c-ic-digital-temp-sensors/i
 Just download a zip file from this repository and import into MCUXpresso-IDE.  
 (The MCUXpress-SDK for LPC865 is needed to be installed in advance.)
 
-Follow a video guide on YouTube: [https://youtu.be/nvoV3c1kDqA](https://youtu.be/nvoV3c1kDqA) (Japanese version: [https://youtu.be/gi9-ZfQwzAg](https://youtu.be/gi9-ZfQwzAg))
+Follow a video guide on YouTube: [https://youtu.be/nvoV3c1kDqA](https://youtu.be/nvoV3c1kDqA)  
+(Japanese version: [https://youtu.be/gi9-ZfQwzAg](https://youtu.be/gi9-ZfQwzAg))
 [![](https://github.com/teddokano/hello_p3t1755_i2c_lpcxpresso860max/blob/main/readme_pics/readme0.png)](https://youtu.be/nvoV3c1kDqA)
 [![](https://github.com/teddokano/hello_p3t1755_i2c_lpcxpresso860max/blob/main/readme_pics/readme1.png)](https://youtu.be/nvoV3c1kDqA)
